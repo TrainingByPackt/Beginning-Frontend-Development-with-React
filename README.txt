@@ -34,7 +34,7 @@ For an optimal student experience, we recommend the following hardware configura
 You’ll also need the following software installed in advance:
 * Operating System: Windows (8 or higher).
 * Google Chrome
-* Node.js latest version
+* Node.js latest version 
 
 
 
