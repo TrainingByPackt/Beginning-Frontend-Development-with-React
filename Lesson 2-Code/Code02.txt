@@ -1,0 +1,8 @@
+<div class="form-row">
+  <label for="code" class="control-label">Insert code</label>
+  <input type="text" class="form-control" name="code">
+</div>
+
+<div class="form-row">
+  <button type="submit" class="btn" >Send</button>
+</div>

@@ -1,0 +1,9 @@
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+.cart-item {
+	text-align: right;
+	padding-right: 30px;
+}
